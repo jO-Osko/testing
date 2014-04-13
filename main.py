@@ -1,6 +1,6 @@
 import sys
 
-
+import os
 
 def fac(a):
 	if a == 0:
